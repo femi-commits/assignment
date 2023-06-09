@@ -1,4 +1,4 @@
-FROM ubuntU
+FROM ubuntu
 
 RUN apt-get update
 
